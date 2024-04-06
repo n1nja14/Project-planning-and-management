@@ -1,2 +1,8 @@
 /.idea
 /venv
+/.cache
+/.vs
+/.pythonlibs
+/.local
+/.upm
+/__pycache__
